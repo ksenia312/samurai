@@ -1,0 +1,29 @@
+
+.myPosts {
+    padding: 10px;
+    color: #282c34;
+    font-weight: normal;
+
+}
+.myPosts h2 {
+    font-weight: normal;
+    padding: 0; margin: 0;
+}
+.PostBUT button {
+    border:none;
+    background-color: white;
+
+
+}
+.PostBUT {
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 10fr 5fr 5fr;
+    grid-gap: 10px;
+}
+.PostBUT textarea {
+    border: none;
+    resize: none;
+
+}
+

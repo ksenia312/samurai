@@ -1,0 +1,37 @@
+.item {
+   margin: 10px; padding: 10px;
+    background-color:#c4e6eb;
+
+
+}
+
+.item img {
+    width: 50px;
+    border-radius: 100px;
+
+}
+
+.item p {
+    color: #282c34;
+
+
+}
+
+.post {
+    display: grid;
+    grid-template-columns: 2fr 20fr;
+}
+
+.like {
+
+    width: 20%;
+
+}
+
+.like button {
+    border: none;
+    background-color: white;
+}
+.like p{
+    display: inline;
+}

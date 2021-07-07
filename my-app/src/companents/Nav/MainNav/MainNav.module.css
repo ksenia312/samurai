@@ -1,0 +1,13 @@
+
+.items {
+
+}
+.item a {
+
+    text-decoration: none;
+    color: #282c34;
+}
+
+.item a.active {
+    color: #577474;
+}

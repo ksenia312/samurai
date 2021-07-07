@@ -1,0 +1,17 @@
+.friend {
+    display: grid;
+    grid-template-columns: 1fr 2fr ;
+}
+.friendName {
+    padding: 8px 8px  8px 8px;
+
+}
+.friendAva img {
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+}
+.friendAva {
+    padding: 0;
+
+}

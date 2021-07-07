@@ -1,0 +1,16 @@
+.name {
+    background-color: #e7f1f6;
+    padding: 15px;
+
+    margin-bottom: 10px;
+
+}
+.name a {
+    color: #243e4f;
+    text-decoration: none;
+
+
+}
+.name a.active {
+    color: #577474;
+}

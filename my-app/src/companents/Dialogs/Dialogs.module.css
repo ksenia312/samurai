@@ -1,0 +1,38 @@
+.dialogs {
+
+    display: grid;
+
+    grid-template-columns:  2fr 10fr;
+
+    grid-gap: 0;
+}
+
+.names {
+    color: #282c34;
+    padding: 10px 0 10px 10px;
+
+
+}
+
+.adding {
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+}
+
+.adding textarea {
+    border: none;
+    resize: none;
+
+}
+.adding button {
+    border: none;
+}
+
+
+.messages {
+    padding: 10px 10px 10px 0;
+
+}
+
